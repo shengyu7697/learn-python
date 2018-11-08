@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-import sys
-from datetime import datetime
-from scipy import signal
 import matplotlib.pyplot as plt
 
 def main():
